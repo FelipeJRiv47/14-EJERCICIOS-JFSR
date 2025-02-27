@@ -1,0 +1,65 @@
+.foto2{
+    width: 400px;
+}
+
+.foto1{
+    width: 400px;
+}
+
+
+.Messi{
+    width: 300px;
+}
+.Tolima{
+    width:300px
+}
+.Mundial{
+    width: 300px;
+}
+.container-todo{
+    width: 520px;
+    height: 150px;
+    position: relative;
+    left: 35%;
+    border-radius: 8px;
+    padding-top: 20px;
+}
+
+.contenido-menu{
+    position: relative;
+    margin-top:50px;
+}
+
+
+#noticiasEconomia{
+    background-color: rgb(235, 230, 79);
+    height: 200px;
+    margin-top: 200px;
+    font-weight: bold;
+    text-align: center;
+    top: 50px;
+}
+
+#noticiaInternacionales{
+    background-color: rgb(205, 95, 95);
+    text-align: center;
+
+}
+
+#noticiaGlobales{
+    background-color: rgb(235, 230, 79);
+    text-align: center;
+}
+
+.inicio-todo{
+    position: absolute;
+    top: 50px;
+    background-color: rgb(160, 160, 150);
+    width: 5%;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.tolimita{
+    width: 300px;
+}
